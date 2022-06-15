@@ -1,13 +1,11 @@
-## iRISCV
+# iRISCV
 
-iRISCV is a knowledge library as a WeChat miniprogram for RISC-V developers.
+iRISCV 是一个微信小程序，包含 RISC-V 指令集等信息查询功能。
 
-![miniprogram](iRISCV.jpg)
+## 贡献
 
-### Contribution
+如果你有需要添加的内容，请整理好后联系我。
 
-If you have any well-documented RISC-V content, feel free to contact me to add.
+## 联系
 
-### Support or Contact
-
-Please talk with me in [issues](https://github.com/xlindo/iRISCV/issues).
+请在 [issues](https://github.com/xlindo/iRISCV/issues) 与我交谈。
