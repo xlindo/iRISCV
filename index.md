@@ -10,8 +10,13 @@ iRISCV 是一个微信小程序，包含 RISC-V 指令集等信息查询功能�
 
 ## 更新
 
+* 2022.6.20
+  * Insert `Register Conventions` (greencard 20181213, riscv-abi-spec-v0.9): `html`, Integer, Floating-point, Vector
 * 2022.6.17
-  * 增加伪指令，PseudoInstructions，unprivileged 20191213
+  * Insert `PseudoInstructions` (unprivileged 20191213)
+  * [Will be updated!] Insert partial v-extension ISAs (greencard 20191213)
+* 2022.6.15
+  * Insert `html`：Instruction Formats, Keras available models, activation function, version status (extensions)
 * 2022.6.13
   * 上线，包含基础 Integer 指令，Patterson and Hennessy
 
